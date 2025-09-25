@@ -1,0 +1,55 @@
+Departure Time,Arrival Time,Airline Company,Flight Duration,Stops,Price,co2 emissions,emissions variation
+8:04 AM,9:34 AM,Frontier,1 hr 30 min,Nonstop,$19,60 kg CO2e,-36% emissions
+10:35 PM,12:06 AM+1,United,1 hr 31 min,Nonstop,$49,76 kg CO2e,-19% emissions
+5:40 PM,7:05 PM,Southwest,1 hr 25 min,Nonstop,$74,79 kg CO2e,-16% emissions
+7:05 AM,8:38 AM,United,1 hr 33 min,Nonstop,$49,79 kg CO2e,-16% emissions
+1:56 PM,3:27 PM,United,1 hr 31 min,Nonstop,$69,71 kg CO2e,-24% emissions
+7:00 AM,8:27 AM,American,1 hr 27 min,Nonstop,$74,80 kg CO2e,-15% emissions
+8:00 PM,9:20 PM,Southwest,1 hr 20 min,Nonstop,$84,89 kg CO2e,Avg emissions
+6:00 AM,7:32 AM,Delta,1 hr 32 min,Nonstop,$95,84 kg CO2e,-11% emissions
+9:29 AM,11:05 AM,Delta,1 hr 36 min,Nonstop,$95,79 kg CO2e,-16% emissions
+1:15 PM,2:46 PM,United,1 hr 31 min,Nonstop,$99,79 kg CO2e,-16% emissions
+3:30 PM,5:02 PM,AmericanOperated by SkyWest Airlines as American Eagle,1 hr 32 min,Nonstop,$99,101 kg CO2e,+7% emissions
+9:55 PM,11:30 PM,AlaskaOperated by Horizon Air as Alaska Horizon,1 hr 35 min,Nonstop,$100,100 kg CO2e,+6% emissions
+4:35 PM,6:06 PM,United,1 hr 31 min,Nonstop,$113,76 kg CO2e,-19% emissions
+6:26 PM,7:57 PM,United,1 hr 31 min,Nonstop,$124,60 kg CO2e,-36% emissions
+6:00 AM,7:39 AM,AlaskaOperated by SkyWest Airlines as Alaska SkyWest,1 hr 39 min,Nonstop,$125,100 kg CO2e,+6% emissions
+8:00 AM,9:39 AM,Alaska,1 hr 39 min,Nonstop,$125,76 kg CO2e,-19% emissions
+12:21 PM,1:59 PM,AlaskaOperated by SkyWest Airlines as Alaska SkyWest,1 hr 38 min,Nonstop,$125,100 kg CO2e,+6% emissions
+2:10 PM,3:48 PM,AlaskaOperated by SkyWest Airlines as Alaska SkyWest,1 hr 38 min,Nonstop,$125,100 kg CO2e,+6% emissions
+5:00 PM,6:32 PM,AlaskaOperated by SkyWest Airlines as Alaska SkyWest,1 hr 32 min,Nonstop,$125,100 kg CO2e,+6% emissions
+7:27 PM,8:57 PM,Alaska,1 hr 30 min,Nonstop,$125,76 kg CO2e,-19% emissions
+12:40 PM,2:05 PM,Southwest,1 hr 25 min,Nonstop,$126,79 kg CO2e,-16% emissions
+4:45 PM,6:18 PM,Delta,1 hr 33 min,Nonstop,$129,75 kg CO2e,-20% emissions
+8:35 AM,10:08 AM,United,1 hr 33 min,Nonstop,$149,71 kg CO2e,-24% emissions
+11:00 AM,12:33 PM,United,1 hr 33 min,Nonstop,$149,76 kg CO2e,-19% emissions
+12:35 PM,2:08 PM,Delta,1 hr 33 min,Nonstop,$149,75 kg CO2e,-20% emissions
+10:09 AM,11:43 AM,AmericanOperated by SkyWest Airlines as American Eagle,1 hr 34 min,Nonstop,$215,101 kg CO2e,+7% emissions
+10:41 AM,12:21 PM,AlaskaOperated by SkyWest Airlines as Alaska SkyWest,1 hr 40 min,Nonstop,$219,100 kg CO2e,+6% emissions
+8:04 AM,9:34 AM,Frontier,1 hr 30 min,Nonstop,$19,60 kg CO2e,-36% emissions
+10:35 PM,12:06 AM+1,United,1 hr 31 min,Nonstop,$49,76 kg CO2e,-19% emissions
+5:40 PM,7:05 PM,Southwest,1 hr 25 min,Nonstop,$74,79 kg CO2e,-16% emissions
+7:05 AM,8:38 AM,United,1 hr 33 min,Nonstop,$49,79 kg CO2e,-16% emissions
+1:56 PM,3:27 PM,United,1 hr 31 min,Nonstop,$69,71 kg CO2e,-24% emissions
+7:00 AM,8:27 AM,American,1 hr 27 min,Nonstop,$74,80 kg CO2e,-15% emissions
+8:00 PM,9:20 PM,Southwest,1 hr 20 min,Nonstop,$84,89 kg CO2e,Avg emissions
+6:00 AM,7:32 AM,Delta,1 hr 32 min,Nonstop,$95,84 kg CO2e,-11% emissions
+9:29 AM,11:05 AM,Delta,1 hr 36 min,Nonstop,$95,79 kg CO2e,-16% emissions
+1:15 PM,2:46 PM,United,1 hr 31 min,Nonstop,$99,79 kg CO2e,-16% emissions
+3:30 PM,5:02 PM,AmericanOperated by SkyWest Airlines as American Eagle,1 hr 32 min,Nonstop,$99,101 kg CO2e,+7% emissions
+9:55 PM,11:30 PM,AlaskaOperated by Horizon Air as Alaska Horizon,1 hr 35 min,Nonstop,$100,100 kg CO2e,+6% emissions
+4:35 PM,6:06 PM,United,1 hr 31 min,Nonstop,$113,76 kg CO2e,-19% emissions
+6:26 PM,7:57 PM,United,1 hr 31 min,Nonstop,$124,60 kg CO2e,-36% emissions
+6:00 AM,7:39 AM,AlaskaOperated by SkyWest Airlines as Alaska SkyWest,1 hr 39 min,Nonstop,$125,100 kg CO2e,+6% emissions
+8:00 AM,9:39 AM,Alaska,1 hr 39 min,Nonstop,$125,76 kg CO2e,-19% emissions
+12:21 PM,1:59 PM,AlaskaOperated by SkyWest Airlines as Alaska SkyWest,1 hr 38 min,Nonstop,$125,100 kg CO2e,+6% emissions
+2:10 PM,3:48 PM,AlaskaOperated by SkyWest Airlines as Alaska SkyWest,1 hr 38 min,Nonstop,$125,100 kg CO2e,+6% emissions
+5:00 PM,6:32 PM,AlaskaOperated by SkyWest Airlines as Alaska SkyWest,1 hr 32 min,Nonstop,$125,100 kg CO2e,+6% emissions
+7:27 PM,8:57 PM,Alaska,1 hr 30 min,Nonstop,$125,76 kg CO2e,-19% emissions
+12:40 PM,2:05 PM,Southwest,1 hr 25 min,Nonstop,$126,79 kg CO2e,-16% emissions
+4:45 PM,6:18 PM,Delta,1 hr 33 min,Nonstop,$129,75 kg CO2e,-20% emissions
+8:35 AM,10:08 AM,United,1 hr 33 min,Nonstop,$149,71 kg CO2e,-24% emissions
+11:00 AM,12:33 PM,United,1 hr 33 min,Nonstop,$149,76 kg CO2e,-19% emissions
+12:35 PM,2:08 PM,Delta,1 hr 33 min,Nonstop,$149,75 kg CO2e,-20% emissions
+10:09 AM,11:43 AM,AmericanOperated by SkyWest Airlines as American Eagle,1 hr 34 min,Nonstop,$215,101 kg CO2e,+7% emissions
+10:41 AM,12:21 PM,AlaskaOperated by SkyWest Airlines as Alaska SkyWest,1 hr 40 min,Nonstop,$219,100 kg CO2e,+6% emissions

@@ -1,0 +1,15 @@
+Departure Time,Arrival Time,Airline Company,Flight Duration,Stops,Price,co2 emissions,emissions variation
+11:30 AM,2:37 PM,JetBlue,4 hr 7 min,Nonstop,$199,224 kg CO2e,-16% emissions
+10:30 AM,7:40 PM,"Air CanadaOperated by Air Canada Express - Jazz, Air Canada Rouge",10 hr 10 min,1 stop,$172,345 kg CO2e,+30% emissions
+6:55 AM,10:00 AM,JetBlue,4 hr 5 min,Nonstop,$199,226 kg CO2e,-15% emissions
+4:00 PM,12:59 AM+1,Aeromexico,9 hr 59 min,1 stop,$199,306 kg CO2e,+15% emissions
+7:29 AM,1:50 PM,American,7 hr 21 min,1 stop,$204,287 kg CO2e,+8% emissions
+10:00 AM,1:15 PM,JetBlue,4 hr 15 min,Nonstop,$239,226 kg CO2e,-15% emissions
+8:21 AM,11:29 AM,DeltaAeromexico,4 hr 8 min,Nonstop,$270,170 kg CO2e,-36% emissions
+11:30 AM,2:37 PM,JetBlue,4 hr 7 min,Nonstop,$199,224 kg CO2e,-16% emissions
+10:30 AM,7:40 PM,"Air CanadaOperated by Air Canada Express - Jazz, Air Canada Rouge",10 hr 10 min,1 stop,$172,345 kg CO2e,+30% emissions
+6:55 AM,10:00 AM,JetBlue,4 hr 5 min,Nonstop,$199,226 kg CO2e,-15% emissions
+4:00 PM,12:59 AM+1,Aeromexico,9 hr 59 min,1 stop,$199,306 kg CO2e,+15% emissions
+7:29 AM,1:50 PM,American,7 hr 21 min,1 stop,$204,287 kg CO2e,+8% emissions
+10:00 AM,1:15 PM,JetBlue,4 hr 15 min,Nonstop,$239,226 kg CO2e,-15% emissions
+8:21 AM,11:29 AM,DeltaAeromexico,4 hr 8 min,Nonstop,$270,170 kg CO2e,-36% emissions
