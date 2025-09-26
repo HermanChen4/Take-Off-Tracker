@@ -1,0 +1,600 @@
+[
+    {
+        "OutboundFlight": {
+            "Departure Time": "9:25\u202fAM",
+            "Arrival Time": "1:44\u202fPM",
+            "Airline Company": "JetBlue",
+            "Flight Duration": "4 hr 19 min",
+            "Stops": "Nonstop",
+            "Price": "$279",
+            "co2 emissions": "233 kg CO2e",
+            "emissions variation": "-12% emissions"
+        },
+        "ReturnFlights": [
+            {
+                "Departure Time": "1:35\u202fPM",
+                "Arrival Time": "5:21\u202fPM",
+                "Airline Company": "JetBlue",
+                "Flight Duration": "3 hr 46 min",
+                "Stops": "Nonstop",
+                "Price": "$279",
+                "co2 emissions": "230 kg CO2e",
+                "emissions variation": "Avg emissions"
+            },
+            {
+                "Departure Time": "3:15\u202fPM",
+                "Arrival Time": "6:59\u202fPM",
+                "Airline Company": "JetBlue",
+                "Flight Duration": "3 hr 44 min",
+                "Stops": "Nonstop",
+                "Price": "$299",
+                "co2 emissions": "227 kg CO2e",
+                "emissions variation": "Avg emissions"
+            }
+        ]
+    },
+    {
+        "OutboundFlight": {
+            "Departure Time": "8:03\u202fAM",
+            "Arrival Time": "12:30\u202fPM",
+            "Airline Company": "DeltaAeromexico",
+            "Flight Duration": "4 hr 27 min",
+            "Stops": "Nonstop",
+            "Price": "$289",
+            "co2 emissions": "179 kg CO2e",
+            "emissions variation": "-33% emissions"
+        },
+        "ReturnFlights": [
+            {
+                "Departure Time": "1:35\u202fPM",
+                "Arrival Time": "5:33\u202fPM",
+                "Airline Company": "DeltaAeromexico",
+                "Flight Duration": "3 hr 58 min",
+                "Stops": "Nonstop",
+                "Price": "$289",
+                "co2 emissions": "171 kg CO2e",
+                "emissions variation": "-28% emissions"
+            },
+            {
+                "Departure Time": "2:30\u202fPM",
+                "Arrival Time": "10:23\u202fPM",
+                "Airline Company": "DeltaOperated by Republic Airways Delta Connection",
+                "Flight Duration": "7 hr 53 min",
+                "Stops": "1 stop",
+                "Price": "$381",
+                "co2 emissions": "308 kg CO2e",
+                "emissions variation": "+29% emissions"
+            },
+            {
+                "Departure Time": "3:01\u202fPM",
+                "Arrival Time": "11:13\u202fPM",
+                "Airline Company": "DeltaAeromexico",
+                "Flight Duration": "8 hr 12 min",
+                "Stops": "1 stop",
+                "Price": "$425",
+                "co2 emissions": "338 kg CO2e",
+                "emissions variation": "+41% emissions"
+            },
+            {
+                "Departure Time": "12:45\u202fPM",
+                "Arrival Time": "4:40\u202fPM",
+                "Airline Company": "American",
+                "Flight Duration": "3 hr 55 min",
+                "Stops": "Nonstop",
+                "Price": "$3,783",
+                "co2 emissions": "171 kg CO2e",
+                "emissions variation": "-28% emissions"
+            },
+            {
+                "Departure Time": "4:30\u202fPM",
+                "Arrival Time": "8:25\u202fPM",
+                "Airline Company": "American",
+                "Flight Duration": "3 hr 55 min",
+                "Stops": "Nonstop",
+                "Price": "$3,783",
+                "co2 emissions": "202 kg CO2e",
+                "emissions variation": "-15% emissions"
+            }
+        ]
+    },
+    {
+        "OutboundFlight": {
+            "Departure Time": "8:05\u202fAM",
+            "Arrival Time": "12:25\u202fPM",
+            "Airline Company": "United",
+            "Flight Duration": "4 hr 20 min",
+            "Stops": "Nonstop",
+            "Price": "$324",
+            "co2 emissions": "213 kg CO2e",
+            "emissions variation": "-20% emissions"
+        },
+        "ReturnFlights": [
+            {
+                "Departure Time": "8:23\u202fAM",
+                "Arrival Time": "12:07\u202fPM",
+                "Airline Company": "United",
+                "Flight Duration": "3 hr 44 min",
+                "Stops": "Nonstop",
+                "Price": "$324",
+                "co2 emissions": "172 kg CO2e",
+                "emissions variation": "-28% emissions"
+            },
+            {
+                "Departure Time": "5:09\u202fPM",
+                "Arrival Time": "N/A",
+                "Airline Company": "N/A",
+                "Flight Duration": "N/A",
+                "Stops": "N/A",
+                "Price": "N/A",
+                "co2 emissions": "N/A",
+                "emissions variation": "N/A"
+            },
+            {
+                "Departure Time": "N/A",
+                "Arrival Time": "N/A",
+                "Airline Company": "N/A",
+                "Flight Duration": "N/A",
+                "Stops": "N/A",
+                "Price": "N/A",
+                "co2 emissions": "N/A",
+                "emissions variation": "N/A"
+            },
+            {
+                "Departure Time": "2:04\u202fPM",
+                "Arrival Time": "5:55\u202fPM",
+                "Airline Company": "United",
+                "Flight Duration": "3 hr 51 min",
+                "Stops": "Nonstop",
+                "Price": "$406",
+                "co2 emissions": "206 kg CO2e",
+                "emissions variation": "-14% emissions"
+            }
+        ]
+    },
+    {
+        "OutboundFlight": {
+            "Departure Time": "6:00\u202fAM",
+            "Arrival Time": "4:40\u202fPM",
+            "Airline Company": "United",
+            "Flight Duration": "10 hr 40 min",
+            "Stops": "1 stop",
+            "Price": "$283",
+            "co2 emissions": "233 kg CO2e",
+            "emissions variation": "-12% emissions"
+        },
+        "ReturnFlights": [
+            {
+                "Departure Time": "8:23\u202fAM",
+                "Arrival Time": "12:07\u202fPM",
+                "Airline Company": "United",
+                "Flight Duration": "3 hr 44 min",
+                "Stops": "Nonstop",
+                "Price": "$283",
+                "co2 emissions": "172 kg CO2e",
+                "emissions variation": "-28% emissions"
+            },
+            {
+                "Departure Time": "5:09\u202fPM",
+                "Arrival Time": "N/A",
+                "Airline Company": "N/A",
+                "Flight Duration": "N/A",
+                "Stops": "N/A",
+                "Price": "N/A",
+                "co2 emissions": "N/A",
+                "emissions variation": "N/A"
+            },
+            {
+                "Departure Time": "N/A",
+                "Arrival Time": "N/A",
+                "Airline Company": "N/A",
+                "Flight Duration": "N/A",
+                "Stops": "N/A",
+                "Price": "N/A",
+                "co2 emissions": "N/A",
+                "emissions variation": "N/A"
+            },
+            {
+                "Departure Time": "2:04\u202fPM",
+                "Arrival Time": "5:55\u202fPM",
+                "Airline Company": "United",
+                "Flight Duration": "3 hr 51 min",
+                "Stops": "Nonstop",
+                "Price": "$365",
+                "co2 emissions": "206 kg CO2e",
+                "emissions variation": "-14% emissions"
+            }
+        ]
+    },
+    {
+        "OutboundFlight": {
+            "Departure Time": "6:00\u202fAM",
+            "Arrival Time": "4:40\u202fPM",
+            "Airline Company": "UnitedOperated by Gojet Airlines DBA United Express",
+            "Flight Duration": "10 hr 40 min",
+            "Stops": "1 stop",
+            "Price": "$283",
+            "co2 emissions": "339 kg CO2e",
+            "emissions variation": "+27% emissions"
+        },
+        "ReturnFlights": [
+            {
+                "Departure Time": "8:23\u202fAM",
+                "Arrival Time": "12:07\u202fPM",
+                "Airline Company": "United",
+                "Flight Duration": "3 hr 44 min",
+                "Stops": "Nonstop",
+                "Price": "$283",
+                "co2 emissions": "172 kg CO2e",
+                "emissions variation": "-28% emissions"
+            },
+            {
+                "Departure Time": "N/A",
+                "Arrival Time": "N/A",
+                "Airline Company": "N/A",
+                "Flight Duration": "N/A",
+                "Stops": "N/A",
+                "Price": "N/A",
+                "co2 emissions": "N/A",
+                "emissions variation": "N/A"
+            },
+            {
+                "Departure Time": "N/A",
+                "Arrival Time": "N/A",
+                "Airline Company": "N/A",
+                "Flight Duration": "N/A",
+                "Stops": "N/A",
+                "Price": "N/A",
+                "co2 emissions": "N/A",
+                "emissions variation": "N/A"
+            },
+            {
+                "Departure Time": "2:04\u202fPM",
+                "Arrival Time": "5:55\u202fPM",
+                "Airline Company": "United",
+                "Flight Duration": "3 hr 51 min",
+                "Stops": "Nonstop",
+                "Price": "$365",
+                "co2 emissions": "206 kg CO2e",
+                "emissions variation": "-14% emissions"
+            }
+        ]
+    },
+    {
+        "OutboundFlight": {
+            "Departure Time": "9:00\u202fPM",
+            "Arrival Time": "1:30\u202fPM+1",
+            "Airline Company": "DeltaOperated by Republic Airways-DL Connection-DL Shuttle",
+            "Flight Duration": "16 hr 30 min",
+            "Stops": "1 stop",
+            "Price": "$294",
+            "co2 emissions": "317 kg CO2e",
+            "emissions variation": "+19% emissions"
+        },
+        "ReturnFlights": [
+            {
+                "Departure Time": "2:30\u202fPM",
+                "Arrival Time": "10:28\u202fPM",
+                "Airline Company": "DeltaOperated by Republic Airways-DL Connection-DL Shuttle",
+                "Flight Duration": "7 hr 58 min",
+                "Stops": "1 stop",
+                "Price": "$294",
+                "co2 emissions": "313 kg CO2e",
+                "emissions variation": "+22% emissions"
+            },
+            {
+                "Departure Time": "1:32\u202fPM",
+                "Arrival Time": "9:42\u202fPM",
+                "Airline Company": "Delta",
+                "Flight Duration": "8 hr 10 min",
+                "Stops": "1 stop",
+                "Price": "$381",
+                "co2 emissions": "313 kg CO2e",
+                "emissions variation": "+22% emissions"
+            },
+            {
+                "Departure Time": "4:34\u202fPM",
+                "Arrival Time": "11:40\u202fPM",
+                "Airline Company": "Delta",
+                "Flight Duration": "7 hr 6 min",
+                "Stops": "1 stop",
+                "Price": "$381",
+                "co2 emissions": "266 kg CO2e",
+                "emissions variation": "Avg emissions"
+            },
+            {
+                "Departure Time": "N/A",
+                "Arrival Time": "N/A",
+                "Airline Company": "N/A",
+                "Flight Duration": "N/A",
+                "Stops": "N/A",
+                "Price": "N/A",
+                "co2 emissions": "N/A",
+                "emissions variation": "N/A"
+            }
+        ]
+    },
+    {
+        "OutboundFlight": {
+            "Departure Time": "7:00\u202fAM",
+            "Arrival Time": "11:14\u202fAM",
+            "Airline Company": "JetBlue",
+            "Flight Duration": "4 hr 14 min",
+            "Stops": "Nonstop",
+            "Price": "$299",
+            "co2 emissions": "238 kg CO2e",
+            "emissions variation": "-11% emissions"
+        },
+        "ReturnFlights": [
+            {
+                "Departure Time": "12:40\u202fPM",
+                "Arrival Time": "4:31\u202fPM",
+                "Airline Company": "JetBlue",
+                "Flight Duration": "3 hr 51 min",
+                "Stops": "Nonstop",
+                "Price": "$299",
+                "co2 emissions": "228 kg CO2e",
+                "emissions variation": "Avg emissions"
+            },
+            {
+                "Departure Time": "2:40\u202fPM",
+                "Arrival Time": "10:55\u202fPM",
+                "Airline Company": "JetBlue",
+                "Flight Duration": "8 hr 15 min",
+                "Stops": "1 stop",
+                "Price": "$350",
+                "co2 emissions": "303 kg CO2e",
+                "emissions variation": "+27% emissions"
+            }
+        ]
+    },
+    {
+        "OutboundFlight": {
+            "Departure Time": "7:45\u202fAM",
+            "Arrival Time": "11:58\u202fAM",
+            "Airline Company": "JetBlue",
+            "Flight Duration": "4 hr 13 min",
+            "Stops": "Nonstop",
+            "Price": "$299",
+            "co2 emissions": "233 kg CO2e",
+            "emissions variation": "-12% emissions"
+        },
+        "ReturnFlights": [
+            {
+                "Departure Time": "1:35\u202fPM",
+                "Arrival Time": "5:21\u202fPM",
+                "Airline Company": "JetBlue",
+                "Flight Duration": "3 hr 46 min",
+                "Stops": "Nonstop",
+                "Price": "$299",
+                "co2 emissions": "230 kg CO2e",
+                "emissions variation": "Avg emissions"
+            },
+            {
+                "Departure Time": "3:15\u202fPM",
+                "Arrival Time": "6:59\u202fPM",
+                "Airline Company": "JetBlue",
+                "Flight Duration": "3 hr 44 min",
+                "Stops": "Nonstop",
+                "Price": "$319",
+                "co2 emissions": "227 kg CO2e",
+                "emissions variation": "Avg emissions"
+            }
+        ]
+    },
+    {
+        "OutboundFlight": {
+            "Departure Time": "7:00\u202fAM",
+            "Arrival Time": "11:20\u202fAM",
+            "Airline Company": "United",
+            "Flight Duration": "4 hr 20 min",
+            "Stops": "Nonstop",
+            "Price": "$324",
+            "co2 emissions": "178 kg CO2e",
+            "emissions variation": "-33% emissions"
+        },
+        "ReturnFlights": [
+            {
+                "Departure Time": "8:23\u202fAM",
+                "Arrival Time": "12:07\u202fPM",
+                "Airline Company": "United",
+                "Flight Duration": "3 hr 44 min",
+                "Stops": "Nonstop",
+                "Price": "$324",
+                "co2 emissions": "172 kg CO2e",
+                "emissions variation": "-28% emissions"
+            },
+            {
+                "Departure Time": "5:09\u202fPM",
+                "Arrival Time": "11:57\u202fPM",
+                "Airline Company": "United",
+                "Flight Duration": "6 hr 48 min",
+                "Stops": "1 stop",
+                "Price": "$334",
+                "co2 emissions": "217 kg CO2e",
+                "emissions variation": "-9% emissions"
+            },
+            {
+                "Departure Time": "7:00\u202fPM",
+                "Arrival Time": "10:45\u202fPM",
+                "Airline Company": "United",
+                "Flight Duration": "3 hr 45 min",
+                "Stops": "Nonstop",
+                "Price": "$353",
+                "co2 emissions": "172 kg CO2e",
+                "emissions variation": "-28% emissions"
+            },
+            {
+                "Departure Time": "2:04\u202fPM",
+                "Arrival Time": "5:55\u202fPM",
+                "Airline Company": "United",
+                "Flight Duration": "3 hr 51 min",
+                "Stops": "Nonstop",
+                "Price": "$406",
+                "co2 emissions": "206 kg CO2e",
+                "emissions variation": "-14% emissions"
+            }
+        ]
+    },
+    {
+        "OutboundFlight": {
+            "Departure Time": "7:25\u202fAM",
+            "Arrival Time": "11:45\u202fAM",
+            "Airline Company": "American",
+            "Flight Duration": "4 hr 20 min",
+            "Stops": "Nonstop",
+            "Price": "$366",
+            "co2 emissions": "175 kg CO2e",
+            "emissions variation": "-34% emissions"
+        },
+        "ReturnFlights": [
+            {
+                "Departure Time": "12:45\u202fPM",
+                "Arrival Time": "4:40\u202fPM",
+                "Airline Company": "American",
+                "Flight Duration": "3 hr 55 min",
+                "Stops": "Nonstop",
+                "Price": "$366",
+                "co2 emissions": "171 kg CO2e",
+                "emissions variation": "-28% emissions"
+            },
+            {
+                "Departure Time": "4:30\u202fPM",
+                "Arrival Time": "8:25\u202fPM",
+                "Airline Company": "American",
+                "Flight Duration": "3 hr 55 min",
+                "Stops": "Nonstop",
+                "Price": "$366",
+                "co2 emissions": "202 kg CO2e",
+                "emissions variation": "-15% emissions"
+            },
+            {
+                "Departure Time": "5:20\u202fPM",
+                "Arrival Time": "12:59\u202fAM+1",
+                "Airline Company": "American",
+                "Flight Duration": "7 hr 39 min",
+                "Stops": "1 stop",
+                "Price": "$376",
+                "co2 emissions": "250 kg CO2e",
+                "emissions variation": "Avg emissions"
+            },
+            {
+                "Departure Time": "1:35\u202fPM",
+                "Arrival Time": "5:33\u202fPM",
+                "Airline Company": "Delta",
+                "Flight Duration": "3 hr 58 min",
+                "Stops": "Nonstop",
+                "Price": "$3,781",
+                "co2 emissions": "171 kg CO2e",
+                "emissions variation": "-28% emissions"
+            }
+        ]
+    },
+    {
+        "OutboundFlight": {
+            "Departure Time": "11:07\u202fAM",
+            "Arrival Time": "3:27\u202fPM",
+            "Airline Company": "American",
+            "Flight Duration": "4 hr 20 min",
+            "Stops": "Nonstop",
+            "Price": "$366",
+            "co2 emissions": "207 kg CO2e",
+            "emissions variation": "-22% emissions"
+        },
+        "ReturnFlights": [
+            {
+                "Departure Time": "12:45\u202fPM",
+                "Arrival Time": "4:40\u202fPM",
+                "Airline Company": "American",
+                "Flight Duration": "3 hr 55 min",
+                "Stops": "Nonstop",
+                "Price": "$366",
+                "co2 emissions": "171 kg CO2e",
+                "emissions variation": "-28% emissions"
+            },
+            {
+                "Departure Time": "4:30\u202fPM",
+                "Arrival Time": "8:25\u202fPM",
+                "Airline Company": "American",
+                "Flight Duration": "3 hr 55 min",
+                "Stops": "Nonstop",
+                "Price": "$366",
+                "co2 emissions": "202 kg CO2e",
+                "emissions variation": "-15% emissions"
+            },
+            {
+                "Departure Time": "5:20\u202fPM",
+                "Arrival Time": "12:59\u202fAM+1",
+                "Airline Company": "American",
+                "Flight Duration": "7 hr 39 min",
+                "Stops": "1 stop",
+                "Price": "$376",
+                "co2 emissions": "250 kg CO2e",
+                "emissions variation": "Avg emissions"
+            },
+            {
+                "Departure Time": "1:35\u202fPM",
+                "Arrival Time": "5:33\u202fPM",
+                "Airline Company": "Delta",
+                "Flight Duration": "3 hr 58 min",
+                "Stops": "Nonstop",
+                "Price": "$3,781",
+                "co2 emissions": "171 kg CO2e",
+                "emissions variation": "-28% emissions"
+            }
+        ]
+    },
+    {
+        "OutboundFlight": {
+            "Departure Time": "9:37\u202fAM",
+            "Arrival Time": "1:57\u202fPM",
+            "Airline Company": "United",
+            "Flight Duration": "4 hr 20 min",
+            "Stops": "Nonstop",
+            "Price": "$383",
+            "co2 emissions": "178 kg CO2e",
+            "emissions variation": "-33% emissions"
+        },
+        "ReturnFlights": [
+            {
+                "Departure Time": "8:23\u202fAM",
+                "Arrival Time": "12:07\u202fPM",
+                "Airline Company": "United",
+                "Flight Duration": "3 hr 44 min",
+                "Stops": "Nonstop",
+                "Price": "$383",
+                "co2 emissions": "172 kg CO2e",
+                "emissions variation": "-28% emissions"
+            },
+            {
+                "Departure Time": "5:09\u202fPM",
+                "Arrival Time": "11:57\u202fPM",
+                "Airline Company": "United",
+                "Flight Duration": "6 hr 48 min",
+                "Stops": "1 stop",
+                "Price": "$393",
+                "co2 emissions": "217 kg CO2e",
+                "emissions variation": "-9% emissions"
+            },
+            {
+                "Departure Time": "7:00\u202fPM",
+                "Arrival Time": "10:45\u202fPM",
+                "Airline Company": "United",
+                "Flight Duration": "3 hr 45 min",
+                "Stops": "Nonstop",
+                "Price": "$412",
+                "co2 emissions": "172 kg CO2e",
+                "emissions variation": "-28% emissions"
+            },
+            {
+                "Departure Time": "2:04\u202fPM",
+                "Arrival Time": "5:55\u202fPM",
+                "Airline Company": "United",
+                "Flight Duration": "3 hr 51 min",
+                "Stops": "Nonstop",
+                "Price": "$465",
+                "co2 emissions": "206 kg CO2e",
+                "emissions variation": "-14% emissions"
+            }
+        ]
+    }
+]
